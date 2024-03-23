@@ -1,8 +1,8 @@
-# Mobile Assignments
+# Mobile Course Assignments
 
-### Student Name:
+### Student Name: AmirMahdi Daraei     
 
-### Student Code:
+### Student Code: 99105431
 
 # Notes: 
 
