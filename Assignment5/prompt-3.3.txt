@@ -1,0 +1,14 @@
+Let's play a game of Tic-Tac-Toe (XO) on a 3x3 grid. Here's the current state of the board:
+
+Current state of the board:
+X | O | X
+O | X | -
+- | - | O
+
+It's your turn to play as 'O'. Please determine the next move using the minimax algorithm with the following considerations:
+1. If there is a move that wins the game for the CPU, take that move.
+2. If the opponent has a move that would win the game on their next turn, block that move.
+3. Otherwise, use the minimax algorithm to determine the best possible move to either maximize the CPU's chances of winning or minimize the player's chances of winning.
+4. If the board is full and no player has won, the game is a draw.
+
+Based on this algorithm, what is your next move? Please provide the row and column number (e.g., "move to row 2, column 3") and indicate if this move results in a win for 'X', 'O', or if the game continues.
