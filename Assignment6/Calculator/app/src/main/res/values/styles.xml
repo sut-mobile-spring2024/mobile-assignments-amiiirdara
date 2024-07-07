@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>  <item name="android:layout_weight">1</item>  <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>  <item name="android:background">@color/button_background</item>  </style>
+
+    <style name="OperatorButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>  <item name="android:layout_weight">1</item>  <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>  <item name="android:background">@color/operator_background</item>  </style>
+
+    <color name="button_background">#DDDDDD</color>  <color name="operator_background">#FF9933</color>  <color name="background_color">#212121</color>  </resources>
