@@ -30,8 +30,16 @@ class MainActivity : AppCompatActivity() {
         }
 
         val numericButtons = intArrayOf(
-            R.id.btn_0, R.id.btn_1, R.id.btn_2, R.id.btn_3, R.id.btn_4,
-            R.id.btn_5, R.id.btn_6, R.id.btn_7, R.id.btn_8, R.id.btn_9,
+            R.id.btn_0,
+            R.id.btn_1,
+            R.id.btn_2,
+            R.id.btn_3,
+            R.id.btn_4,
+            R.id.btn_5,
+            R.id.btn_6,
+            R.id.btn_7,
+            R.id.btn_8,
+            R.id.btn_9,
             R.id.btn_dot
         )
         numericButtons.forEach { findViewById<Button>(it).setOnClickListener(listener) }
